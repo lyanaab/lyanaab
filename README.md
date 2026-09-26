@@ -41,8 +41,6 @@ Final-year Computer Engineering student, graduating next semester 🎓
 
 **An SLP-guided, AI-assisted Arabic articulation practice app for children**
 
-Flutter app · ASP.NET backend · SQL Server · on-device AI evaluation agent
-— every AI suggestion stays inert until a licensed speech-language pathologist approves it.
 
 <img src="https://img.shields.io/badge/status-senior%20capstone-f7a8c4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/domain-clinical%20AI-b8a4e3?style=for-the-badge" />
