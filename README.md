@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d6249f&fontSize=72&height=110&width=666&text=Layan" alt="Lyana" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d6249f&fontSize=72&height=110&width=666&text=Lyana" alt="Lyana" />
 
 <p>✨ <i>Computer Engineer in the making</i> 🎓 ✨</p>
 
@@ -108,7 +108,6 @@ Final-year Computer Engineering student, graduating next semester 🎓
 <br/>
 
 <div align="center">
-
 
 <br/><br/>
 
