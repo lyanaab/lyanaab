@@ -109,7 +109,6 @@ Final-year Computer Engineering student, graduating next semester 🎓
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 
 <br/><br/>
 
